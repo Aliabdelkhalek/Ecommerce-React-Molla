@@ -20,7 +20,7 @@ export const checkoutPayment = createAsyncThunk(
             token,
           },
           params: {
-            url: "http://Aliabdelkhalek.github.io/Ecommerce-React-Molla/bate5a#",
+            url: "http://Aliabdelkhalek.github.io/Ecommerce-React-Molla/#",
           },
         }
       );
