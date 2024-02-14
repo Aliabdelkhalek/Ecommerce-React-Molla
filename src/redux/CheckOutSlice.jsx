@@ -16,11 +16,11 @@ export const checkoutPayment = createAsyncThunk(
         `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartId}`,
         { shippingAddress: values },
         {
-          headers: {
+          headers: {  
             token,
           },
           params: {
-            url: "http://Aliabdelkhalek.github.io/Ecommerce-react-molla/#",
+            url: "http://Aliabdelkhalek.github.io/Ecommerce-React-Molla/#",
           },
         }
       );
