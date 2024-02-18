@@ -21,9 +21,5 @@ Technology Stack:
   - Real API data integration for up-to-date product information,
   - Mobile-friendly UI designed with Bootstrap, focusing on simplicity and ease of navigation.
 
-Key Features:
-- The project demonstrates a deep commitment to delivering high-quality, engaging e-commerce solutions,
-- Emphasizes user experience with a clean, responsive design that adapts seamlessly across devices,
-- Incorporates advanced functionality like dynamic theming, secure checkout, and real-time order tracking to create a comprehensive online shopping platform.
 
 Visit My Website for a live demonstration: [E-commerce React Molla](https://aliabdelkhalek.github.io/Ecommerce-React-Molla/)
