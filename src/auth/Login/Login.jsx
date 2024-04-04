@@ -25,7 +25,7 @@ export default function Login() {
       toast.success("login successfully");
       navigate("/");
       // JSON.parse(localStorage.getItem("token"));
-      // window.location.reload();
+      window.location.reload();
     } else {
       setErrorLogin(token?.response?.data.message);
       // toast.error(token?.response?.data.message);
