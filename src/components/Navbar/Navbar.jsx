@@ -21,7 +21,6 @@ export default function Navbar() {
     localStorage.removeItem("token");
     setLocalStor(null);
     toast.success("log out successfully");
-    window.location.reload();
   };
 
   return (
